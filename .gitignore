@@ -1,0 +1,35 @@
+# NetPulse Git Ignore
+
+# Build Artifacts
+target/
+dist/
+dist-tauri/
+bin/
+*.exe
+*.deb
+*.appimage
+*.msi
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# Environment/Logs
+*.log
+.env
+.env.*
+
+# Tauri specific
+src-tauri/target/
+src-tauri/bin/
+src-tauri/gen/
