@@ -41,13 +41,6 @@ NetPulse is a cross-platform desktop application that captures network packets i
 # Ubuntu/Debian
 sudo apt-get install -y libpcap-dev libgtk-3-dev libwebkit2gtk-4.1-dev \
   libappindicator3-dev librsvg2-dev pkg-config
-
-# Fedora
-sudo dnf install -y libpcap-devel gtk3-devel webkit2gtk4.1-devel \
-  libappindicator-gtk3-devel librsvg2-devel
-
-# Arch
-sudo pacman -S libpcap gtk3 webkit2gtk-4.1 libappindicator-gtk3 librsvg
 ```
 
 ### Windows Dependencies
