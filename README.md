@@ -173,12 +173,6 @@ The frontend uses React 18 with TypeScript, Zustand for state management, Rechar
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 <p align="center">
   Built with 🦀 Rust + ⚛️ React + 💙 TypeScript
 </p>
